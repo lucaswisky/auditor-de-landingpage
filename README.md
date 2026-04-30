@@ -85,4 +85,4 @@ MIT License -- use, modifique e distribua livremente. Veja [LICENSE](LICENSE).
 
 ---
 
-Criado por [Lucas Wisky](https://github.com/lucaswisniewski347-hub)
+Criado por [Lucas Wisky](https://github.com/lucaswisky)
