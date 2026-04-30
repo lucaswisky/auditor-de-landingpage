@@ -1,0 +1,28 @@
+# Wisky Auditor de Paginas
+
+squad:
+  name: "Wisky Auditor de Paginas"
+  id: wisky-auditor-de-paginas
+  version: "1.0.0"
+  description: |
+    Squad STANDALONE de auditoria de landing pages de low-ticket.
+    Analisa qualquer pagina de vendas usando 6 frameworks de Direct Response:
+    Kennedy 10 Rules, Message-Market-Media, CLOSER, RMBC (Georgi),
+    Value Equation (Hormozi) e Design DR Checklist.
+  purpose: "Auditar landing pages usando frameworks consagrados de Direct Response"
+  license: "MIT"
+
+agents:
+  - wisky-auditor
+
+workflows:
+  - workflows/auditoria-workflow.yaml
+
+knowledge:
+  - knowledge/frameworks-auditoria.md
+
+tasks:
+  - tasks/auditar-lp.md
+
+checklists:
+  - checklists/auditoria-checklist.md

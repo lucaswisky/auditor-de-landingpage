@@ -1,0 +1,39 @@
+---
+description: Workflow de auditoria de landing pages usando 6 frameworks de Direct Response
+---
+
+# Auditoria de Landing Page -- Wisky Auditor
+
+## Pre-Requisitos
+- URL ou conteudo textual da landing page
+- (Opcional) Contexto do nicho e produto
+
+## Workflow
+
+### Fase 1: Ativar Wisky Auditor
+1. Carregar agente: `agents/wisky-auditor.md`
+2. Carregar knowledge: `knowledge/frameworks-auditoria.md`
+3. Carregar checklist: `checklists/auditoria-checklist.md`
+
+### Fase 2: Extracao
+4. Acessar a URL da LP (ou receber conteudo)
+5. Extrair: headline, mecanismo, oferta, precos, CTAs, provas, urgencia
+
+### Fase 3: Auditoria (6 Frameworks)
+6. Aplicar Kennedy 10 Rules -- pontuar compliance
+7. Aplicar Message-Market-Media Triangle -- avaliar alinhamento
+8. Aplicar CLOSER na TSL -- avaliar cada step
+9. Aplicar RMBC Scoring -- pontuar Research, Mechanism, Brief, Copy
+10. Aplicar Value Equation -- pontuar Dream, Likelihood, Time, Effort
+11. Aplicar Design DR Checklist -- pontuar elementos visuais
+
+### Fase 4: Scoring e Relatorio
+12. Calcular score consolidado (0-100) com pesos por framework
+13. Listar issues por severidade (High/Medium/Low)
+14. Gerar top 3 recomendacoes prioritizadas
+15. Entregar relatorio ao usuario
+
+## Notas
+- Este workflow e standalone (nao depende de nenhum outro sistema)
+- Pode ser executado para QUALQUER landing page de vendas
+- Tempo estimado: 10-15 minutos por pagina
